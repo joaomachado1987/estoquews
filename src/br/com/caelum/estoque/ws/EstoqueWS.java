@@ -17,12 +17,6 @@ import br.com.caelum.estoque.modelo.item.ListaItens;
 import br.com.caelum.estoque.modelo.usuario.TokenDao;
 import br.com.caelum.estoque.modelo.usuario.TokenUsuario;
 
-/**
- * 
- * @author Joao
- *
- */
-
 @WebService
 public class EstoqueWS {
 
